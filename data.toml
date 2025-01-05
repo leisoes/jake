@@ -1,16 +1,16 @@
-name = "Jake Gyllenhaal"
-description = "Accomplished actor, captivating with versatility and charisma."
-keywords = "Jake Gyllenhaal, actor, filmography, awards, versatile performances, Hollywood"
+name = "Iván Leis Mtnez."
+description = "Periodista, antropólogo, tecnólogo"
+keywords = "Iván Leis, periodista, journalist, prensa, etnografía, antropología, tecnología, empresa"
 image = "jake.webp"
 theme = "dark"
 primary_color = "#d81b60"
 text_align = "center"
 gtag_id = "G-33WB8LVHR6"
-base_url = "https://thevahidal.github.io/jake"
+base_url = "https://leisoes.github.io/jake"
 
 [[sections]]
 title = "Movies"
-description = "Here are some of my movies"
+description = "Algunhas pelis"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
@@ -28,18 +28,18 @@ url = "https://www.imdb.com/title/tt1392214/"
 
 [[sections]]
 title = "Links"
-description = "Look for me on these websites"
+description = "Saiba mais nestes enlaces"
 direction = "row"
 item_style = "filled"
 [[sections.items]]
-title = "Instagram"
-url = "https://www.instagram.com/jakegyllenhaal"
+title = "Hemeroteca persoal"
+url = "https://blog.ivanleis.eu"
 [[sections.items]]
-title = "IMDb"
-url = "https://www.imdb.com/name/nm0350453/"
+title = "Notas musicais"
+url = "https://sona.ivanleis.eu"
 [[sections.items]]
-title = "Wikipedia"
-url = "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
+title = "Zen&Taichi"
+url = "https://dojo.ivanleis.eu"
 [[sections.items]]
-title = "Rotten Tomatoes"
-url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
+title = "Servizos"
+url = "https://glances.ileis.myds.me"
